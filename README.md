@@ -60,9 +60,9 @@
 
 <h3 align="center">📊 GitHub 统计</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TianchunGu&show_icons=true&locale=zh-cn&theme=radical&count_private=true" alt="github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TianchunGu&show_icons=true&locale=zh-CN&theme=radical&count_private=true" alt="github stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TianchunGu&layout=compact&locale=zh-cn&theme=radical" alt="top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TianchunGu&layout=compact&locale=zh-CN&theme=radical" alt="top langs" />
 </p>
 
 ---
