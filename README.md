@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there!&fontSize=80&animation=twinkling&fontAlignY=35" />
-</p>
+</p> -->
 
-<div align="center">
+<!-- <div align="center">
   <h1>你好, 我是 [你的名字] 👋</h1>
   <p>
     <em>一位热情的 [你的职业/身份], 来自 [你的城市/国家] 📍</em>
@@ -15,11 +15,11 @@
     <br>
     📫 如何联系我: <b>[你的邮箱]</b>
   </p>
-</div>
+</div> -->
 
----
+<!-- --- -->
 
-<h3 align="center">🔗 与我联系</h3>
+<!-- <h3 align="center">🔗 与我联系</h3>
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin" />
@@ -33,11 +33,11 @@
   <a href="https://www.zhihu.com/people/your-zhihu" target="blank">
     <img align="center" src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="your-zhihu" />
   </a>
-</p>
+</p> -->
 
----
+<!-- --- -->
 
-<h3 align="center">🛠️ 我的技术栈</h3>
+<!-- <h3 align="center">🛠️ 我的技术栈</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -56,7 +56,7 @@
   </a>
 </p>
 
----
+--- -->
 
 <h3 align="center">📊 GitHub 统计</h3>
 <p align="center">
@@ -74,12 +74,12 @@
   </a>
 </p>
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TianchunGu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
+</p> -->
